@@ -18,13 +18,13 @@ if %choice%==4 goto exit
 
 :titulo
 cls
-echo Pressione Ctrl+Z quando terminar.
+echo Pressione ENTER quando terminar.
 set /p code=
 goto main
 
 :corpo
 cls
-echo Pressione Ctrl+Z quando terminar.
+echo Pressione ENTER quando terminar.
 set /p codea=
 goto main
 
