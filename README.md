@@ -8,7 +8,7 @@
 **Lista do que foi feito**
 - [x] Login no Tabnews
 - [x] Pegar o session_id e passar na request da POSTAGEM
-- [x] Mandar a Request do Postagem
+- [x] Mandar a Request da Postagem
 - [x] Editor de Texto Proprio
 
 
